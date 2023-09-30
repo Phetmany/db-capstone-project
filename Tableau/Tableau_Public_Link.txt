@@ -1,0 +1,4 @@
+I don't have access to paid version of Tableau. I used Tableau Public (free version) to finish this assignment.
+
+
+https://public.tableau.com/views/LittleLemon_16959660110970/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
